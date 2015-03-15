@@ -16,16 +16,25 @@
 
 ## Video
 ### maizi
-* http://www.maiziedu.com/ HTML5开发框架-Meteor
+* HTML5开发框架-Meteor
+* http://www.maiziedu.com/lesson/3446/
 
 ### youku
 * http://www.youku.com/playlist_show/id_23545469.html 
 
 
 ## Book
-### Discover Meteor
+### Discover Meteor 中文版免费
 * http://zh.discovermeteor.com
 
+## 英文资源
+* www.meteor.com
+* docs.meteor.com
+* 入门导游 https://www.meteor.com/install
+* 为什么需要使用 Meteor  http://wiki.dandascalescu.com/essays/why_meteor
+* Meteor 信息大集合 http://crater.io/
+* Meteor 里面最常用的 Package 介绍大集合 https://gentlenode.com/journal/meteor-22-the-best-meteor-packages-you-must-know-to-code-faster-than-ever/52
+* 
 
 ## INSTALL
 * meteor --version
