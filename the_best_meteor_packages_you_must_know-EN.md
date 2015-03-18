@@ -1,5 +1,7 @@
 # THE BEST METEOR PACKAGES YOU MUST KNOW TO CODE FASTER THAN EVER
 
+ [原文链接](https://gentlenode.com/journal/meteor-22-the-best-meteor-packages-you-must-know-to-code-faster-than-ever/52)
+
 Regarding productivity, Meteor is undoubtedly one of the best frameworks you can find. But do you know that you can even be more efficient by knowing some of the most useful packages built by the community? [There are currently 3500+ packages available on Atmosphere](https://atmospherejs.com/) and they cover a wide range of use cases. We tried in this article to reference the most complete packages in order to save you time.
 
 New packages are created every week and a great way to stay up-to-date is to check [the package category on Crater ](http://crater.io/category/packages)or [the most recent packages pushed to Atmosphere](https://atmospherejs.com/packages/recent). If we missed an important one that caught your attention, please add a comment.
