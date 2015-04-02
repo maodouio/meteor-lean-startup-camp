@@ -38,7 +38,7 @@
   - publications/subscriptions/methods/collections/routes/seeds
 
 ```
-项目代码分析： todos
+* 项目代码分析： todos
 ```
 
 ## 3 Mongo基础
@@ -53,7 +53,7 @@
   - Documents/Edit/View/Insert/Delete/Copy
 
 ```
-项目代码分析： hero
+* 项目代码分析： hero
 ```
 
 ## 4 Meteor进阶
@@ -67,7 +67,7 @@
   - insert/update/remove
 
 ```
-项目代码分析： meteorhunt
+* 项目代码分析： meteorhunt
 ```
 
 ## 5 常用package
@@ -88,7 +88,7 @@
   - bengott:avatar
 
 ```
-项目代码分析： welog
+* 项目代码分析： welog
 ```
 
 ## 6 User用户登录
@@ -103,7 +103,7 @@
   - ServiceConfiguration
 
 ```
-项目代码分析： meteor-bbs
+* 项目代码分析： meteor-bbs
 ```
 
 ## 7 项目1 Meteor微信app应用开发
