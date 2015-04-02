@@ -78,6 +78,9 @@
   - anti:fake
   - momentjs:moment
   - bengott:avatar
+```
+代码案例分析： welog
+```
 
 ## 6 User用户登录
 * Packages inside
