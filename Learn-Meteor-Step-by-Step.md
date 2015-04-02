@@ -94,8 +94,8 @@
   - 获取地理位置API
   - O2O代码设计框架 
 
-## 8 项目2 Meteor商城购物项目开发
-* LocalMarket 案例
+## 8 项目2 基于Meteor的iOS/Android app应用开发
+* 典型购物商城项目案例
   - Code Analysis 代码分析
   - Data Design 数据设计
   - Work Flow 运转流程
