@@ -17,7 +17,7 @@
   - JavaScript/CoffeeScript
 
 ```
-项目代码分析： hello
+* 项目代码分析： hello
 ```
 
 ## 2 Meteor基础
