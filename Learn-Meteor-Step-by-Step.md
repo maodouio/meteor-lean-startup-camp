@@ -1,3 +1,6 @@
+# Learn Meteor Step by Step 
+* 毛豆网《Meteor精益创业孵化营》内部培训教材大纲
+
 ## 1 预备知识
 * Install Tools
   - Meteor
@@ -69,7 +72,10 @@
   - bengott:avatar
 
 ## 6 User用户登录
-* package
+* Packages inside
+  - accounts-password
+  - accounts-ui
+* Other Login Packages
   - weibo/qq
   - linkedin/github
 * Meteor.users
