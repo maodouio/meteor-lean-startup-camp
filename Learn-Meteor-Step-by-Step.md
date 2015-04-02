@@ -16,7 +16,9 @@
   - CSS/LESS
   - JavaScript/CoffeeScript
 
-```项目代码分析： hello```
+```
+项目代码分析： hello
+```
 
 ## 2 Meteor基础
 * Meteor 7 Principles
@@ -35,7 +37,9 @@
   - client/server/lib/public/packages/tests
   - publications/subscriptions/methods/collections/routes/seeds
 
-```项目代码分析： todos```
+```
+项目代码分析： todos
+```
 
 ## 3 Mongo基础
 * NoSQL vs SQL
@@ -48,7 +52,9 @@
 * Robomongo
   - Documents/Edit/View/Insert/Delete/Copy
 
-```项目代码分析： hero```
+```
+项目代码分析： hero
+```
 
 ## 4 Meteor进阶
 * Publish and Subscription
@@ -60,7 +66,9 @@
 * Allow and Deny
   - insert/update/remove
 
-```项目代码分析： meteorhunt```
+```
+项目代码分析： meteorhunt
+```
 
 ## 5 常用package
 * Iron router
@@ -79,7 +87,9 @@
   - momentjs:moment
   - bengott:avatar
 
-```项目代码分析： welog```
+```
+项目代码分析： welog
+```
 
 ## 6 User用户登录
 * Packages inside
@@ -92,7 +102,9 @@
   - onCreateUser()
   - ServiceConfiguration
 
-```项目代码分析： meteor-bbs```
+```
+项目代码分析： meteor-bbs
+```
 
 ## 7 项目1 Meteor微信app应用开发
 * 微信app
