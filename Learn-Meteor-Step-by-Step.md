@@ -16,6 +16,8 @@
   - CSS/LESS
   - JavaScript/CoffeeScript
 
+代码案例分析： hello
+
 ## 2 Meteor基础
 * Meteor 7 Principles
   - Data on the Wire
@@ -33,6 +35,8 @@
   - client/server/lib/public/packages/tests
   - publications/subscriptions/methods/collections/routes/seeds
 
+代码案例分析： todos
+
 ## 3 Mongo基础
 * NoSQL vs SQL
 * Collections
@@ -44,6 +48,8 @@
 * Robomongo
   - Documents/Edit/View/Insert/Delete/Copy
 
+代码案例分析： hero
+
 ## 4 Meteor进阶
 * Publish and Subscription
   - Minimongo
@@ -53,6 +59,8 @@
   - Publish with userFields
 * Allow and Deny
   - insert/update/remove
+
+代码案例分析： meteorhunt
 
 ## 5 常用package
 * Iron router
@@ -81,6 +89,8 @@
 * Meteor.users
   - onCreateUser()
   - ServiceConfiguration
+
+代码案例分析： meteor-bbs
 
 ## 7 项目1 Meteor微信app应用开发
 * 微信app
