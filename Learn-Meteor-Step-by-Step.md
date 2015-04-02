@@ -1,9 +1,13 @@
 ## 1 预备知识
 * Install Tools
-  - Meteor/Git and Github/Robomongo/Sublime Text/Chrome
+  - Meteor
+  - Chrome
+  - Robomongo
+  - Sublime Text/WebStorm
+  - Git and Github
 * Commands
-  - meteor create/run/build/add/remove/add-platform/mongo/deploy/log
-  - git init/add/commit/push/branch/pull/fetch/rebase/log
+  - meteor create/run/add/mongo/deploy/log
+  - git init/add/commit/push/pull/log
 * Basics
   - HTML5
   - CSS/LESS
@@ -23,8 +27,8 @@
   - meteor up/mup/mup.json
   - how to deploy to aliyun/amazon EC2
 * Meteor app structure
-  - dirs:client/server/lib/public/packages/tests
-  - js-files:publications/subscriptions/methods/collections/routes/seeds
+  - client/server/lib/public/packages/tests
+  - publications/subscriptions/methods/collections/routes/seeds
 
 ## 3 Mongo基础
 * NoSQL vs SQL
