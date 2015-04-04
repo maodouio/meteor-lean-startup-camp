@@ -78,107 +78,108 @@ Meteor社区已经有许多包可以让大家更快捷地处理模板（template
  
 ## 关于表单的包 PACKAGES FOR YOUR FORMS
 
-Forms are among the most used components of every website. The packages below will help you build and validate your forms faster.
+表单是所有网站中使用最多的组件，下面这些包帮助你更快地搭建和验证表单。
 
-- [aldeed:autoform](https://github.com/aldeed/meteor-autoform): A smart package for Meteor that adds UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
-- [templates:forms](https://github.com/meteortemplates/forms): Build production-ready, reactive forms in minutes. Even complex workflows can be achieved with just a few lines of code. A light-weight alternative to AutoForm based around reusable components.
-- [copleykj:mesosphere](https://github.com/copleykj/Mesosphere): A dual client/server side form data validation, transformation, and aggregation package for Meteor.
-- [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search): Easy-to-use search with Blaze Components (includes Elastic Search Support).
-- [mizzao:autocomplete](https://github.com/mizzao/meteor-autocomplete/): Client/server autocompletion designed for Meteor's collections and reactivity. Looking for a more minimalistic autocompletion package? [Check this one](https://github.com/sebdah/meteor-autocompletion).
+- [aldeed:autoform](https://github.com/aldeed/meteor-autoform): 一个灵巧（smart）的包，它为 Meteor 添加 UI 组件和帮助类，从而更轻易地创建出带有自动插入、更新事件，以及自动跟随地验证功能的基础表单。
+- [templates:forms](https://github.com/meteortemplates/forms): 分分钟搭个可以用于生产环境的随动表单。即使工作流程复杂，也能用几行代码搞定。是`AutoForm`基于可复用组件的轻量版本。
+- [copleykj:mesosphere](https://github.com/copleykj/Mesosphere): 一个可以在客户端和服务器端双向对表单数据进行验证，转换和拼装的包。
+- [matteodem:easy-search](https://github.com/matteodem/meteor-easy-search): 易于使用的搜索，带[Blaze Components](https://matteodem.github.io/meteor-easy-search/docs/blaze-components/)，（支持[Elastic Search](https://matteodem.github.io/meteor-easy-search/docs/elastic-search/)）。
+- [mizzao:autocomplete](https://github.com/mizzao/meteor-autocomplete/): 为 Meteor 的集合（collections）和随动（reactivity）所设计的客户端/服务器端自动补全包，想要个再简洁点的自动补全的包? [戳这](https://github.com/sebdah/meteor-autocompletion).
 
 ## 关于移动端开发的包 PACKAGES FOR MOBILE DEVELOPMENT
 
-[August 2014, Meteor released a stunning feature](https://www.youtube.com/watch?v=4dJLPLWMImw): the ability to compile your application, thanks to Cordova, to iOS and Android devices.[ With isomorphic always in mind](https://www.meteor.com/blog/2014/08/28/isobuild-why-meteor-created-a-new-package-system), a lot of useful packages for mobile development have emerged.
+[2014年8月，Meteor 发布了一个令人惊叹的功能](https://www.youtube.com/watch?v=4dJLPLWMImw)：把你的应用（Application）编译后跑在 iOS 和安卓设备上（多亏有了 Cordova）。[心里总是想着同构（isomorphic）](https://www.meteor.com/blog/2014/08/28/isobuild-why-meteor-created-a-new-package-system)，一大波用于移动端开发的好用的包涌现出来。
 
-- [meteoric:ionic](https://github.com/meteoric/meteor-ionic): This is an attempt at real Ionic and Meteor integration. This is not just Ionic's CSS framework wrapped in a Meteor package. It aims to be a complete port of Ionic’s Angular directives to Meteor Blaze templates. Also, check the complementary packages [Ionic-SASS](https://github.com/meteoric/ionic-sass) and [Ionicons-SASS](https://github.com/meteoric/ionicons-sass).
+- [meteoric:ionic](https://github.com/meteoric/meteor-ionic): 该包是首次对`Ionic`和`Meteor`真正集成的尝试。它不仅仅是将`Ionic`的`CSS`框架包装成一个`Meteor`包。它旨在于把`Ionic`的`Angular`指令（directives）完美移植成`Meteor Blaze`模板。还有，再看看补充包 [Meteor-SASS](https://github.com/meteoric/ionic-sass) 和 [Ionicons-SASS](https://github.com/meteoric/ionicons-sass).
 
 ## 关于测试的包 TESTING PACKAGES
 
-There was a time where testing a Meteor application was kind of hard. But now, [with Velocity](https://github.com/meteor-velocity/velocity), you can integrate several testing frameworks like mocha, cucumber or jasmine and run reactive tests in a snap.
+在曾经的一段时间里，测试一个 Meteor 应用是个难事。但是现在，有了[Velocity](https://github.com/meteor-velocity/velocity)，你可以把多种测试框架如：mocha，cucumber或jasmine集成进来，并立即跑起随动（reactive）的测试。
 
-- [velocity:core](https://github.com/meteor-velocity/velocity): A reactive test-runner for Meteor. Integrates easily with Jasmine, Cucumber, Mocha, CasperJs and Nightwatch ([read more](http://velocity.meteor.com/)).
-- [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter/): HTML reporter for Meteor's Velocity testing framework.
-- [sanjo:jasmine](https://github.com/Sanjo/meteor-jasmine): Easily write and run Jasmine tests for all your Meteor code.
-- [mike:mocha](https://github.com/mad-eye/meteor-mocha-web): This meteor package allows you to easily and safely run mocha tests within Meteor.
+- [velocity:core](https://github.com/meteor-velocity/velocity): Meteor的一个跑测试的东西，轻松与 Jasmine、Cucumber、Mocha、CasperJs及 Nightwatch集成。
+- [velocity:html-reporter](https://github.com/meteor-velocity/html-reporter/): 为Meteor的Velocity测试框架生成HTML报表。
+- [sanjo:jasmine](https://github.com/Sanjo/meteor-jasmine): 给你所有的 Meteor 代码轻松写出并运行Jasmine测试。
+- [mike:mocha](https://github.com/mad-eye/meteor-mocha-web): 该包让你轻松安全地在Meteor中跑 mocha 测试。
 - [xolvio:cucumber](https://github.com/xolvio/meteor-cucumber): Gherkin sytax testing for Meteor using Cucumber.js, served as a Velocity test framework.
-- [clinical:nightwatch](https://github.com/awatson1978/clinical-nightwatch): Ultra-easy acceptance testing for your Meteor app with Selenium and Nightwatch.
-- [nblazer:casperjs](https://github.com/blazer82/meteor-casperjs/): CasperJS end to end test integration for meteor using velocity.
-- [anti:gagarin](https://github.com/anticoders/gagarin): Gagarin is a tool you can use in your tests to run Meteor apps in a sandboxed environment. It's useful when you need more refined control over the meteor processes and test fancy things, e.g. the behavior of your app on server restarts or when you have multiple app instances writing to the same database.
+- [clinical:nightwatch](https://github.com/awatson1978/clinical-nightwatch): 它使用Selenium和Nightwatch对你的 Meteor 应用做超容易的验收测试。
+- [nblazer:casperjs](https://github.com/blazer82/meteor-casperjs/): 使用 Velocity 做端到端的 CasperJS 测试集成。
+- [anti:gagarin](https://github.com/anticoders/gagarin): Gagarin 是一个可以在沙盒环境中测试运行 Meteor 应用的工具。它在你需要对 meteor 流程做更精准控制或者测试一些花哨的东西（比如：重启服务器或者多个应用实例写同一个数据库时的表现）时很有用。
 
 ## 关于SEO/SMO的包 PACKAGES FOR SEO/SMO
 
-SEO and SMO are important marketing aspects. You need to configure your application to make them return the things you want search engines and social medias to see/display.
+SEO 和 SMO 在营销上面显为重要。你需要对应用进行配置，来使得它们可以返回你想要给搜索引擎与社交媒体来发现和展示的东西。
 
-- [manuelschoebel:ms-seo](https://github.com/DerMambo/ms-seo): A SEO helper package for Meteor ([read more in this article](http://www.manuel-schoebel.com/blog/meteor-and-seo)).
-- [gadicohen:sitemaps](https://github.com/gadicc/meteor-sitemaps): Create valid and dynamic sitemaps using your own functions.
+- [manuelschoebel:ms-seo](https://github.com/DerMambo/ms-seo): 一个 SEO 帮手的 Meteor 包，点这篇[文章](http://www.manuel-schoebel.com/blog/meteor-and-seo)查看更多。
+- [gadicohen:sitemaps](https://github.com/gadicc/meteor-sitemaps): 用自己的功能（functions）创建有效且动态的网站地图（sitemaps）。
 
 ## 关于账户和角色的包 ACCOUNTS & ROLE PACKAGES.
 
-Building an account system with Meteor is straightforward. You probably know the core package `accounts-password` but here are a few extensions that will provide to your app additional features.
+用 Meteor 创建账户系统很简单。大家可能已经知道核心包 `accounts-password`了，但是还有一些扩展可以锦上添花。
 
-- [alanning:roles](https://github.com/alanning/meteor-roles): An authorization package for Meteor - compatible with built-in accounts package. Lets you attach permissions to a user which you can then check against later when deciding whether to grant access to Meteor methods or publish data.
-- [artwells:accounts-guest](https://github.com/artwells/meteor-accounts-guest/): Automatically add visitor as anonymous guest with userId. Each non-logged in visitor gets a userId, accessible via Accounts and `Meteor.userId()`.
-- [mizzao:user-status](https://github.com/mizzao/meteor-user-status): Keeps track of user connection data, such as IP addresses, user agents, and client-side activity, and tracks this information in Meteor.users as well as some other objects. This allows you to easily see users that are online, for applications such as rendering the users box below showing online users in green and idle users in orange.
-- [useraccounts:core](https://github.com/meteor-useraccounts/core): User Accounts is a suite of packages for the Meteor.js platform. It provides highly customizable user accounts UI templates for many different front-end frameworks. At the moment it includes forms for sign in, sign up, forgot password, reset password, change password, enroll account, and link or remove of many 3rd party services. (also, [check his themes](https://atmospherejs.com/useraccounts))
-- [joshowens:accounts-entry](https://github.com/Differential/accounts-entry): accounts-entry is a meteorite package that relies on Iron Router and provides an alternative interface to accounts-ui, with whole pages for sign up and sign in.
+- [alanning:roles](https://github.com/alanning/meteor-roles): Meteor 的一个用来实现授权的包。它兼容于Meteor内置的`acounts`包。它可以为一个用户添加权限，并让你在以后决定授以Meteor方法或发布的数据访问权限时，可以检测该用户是否有足够权限。
+- [artwells:accounts-guest](https://github.com/artwells/meteor-accounts-guest/): 给匿名访客自动添加`userId`，任何未登录访客都将获得一个用户ID（userId），这个用户ID可以通过账户和`Meteor.userId()`方法拿到。
+- [mizzao:user-status](https://github.com/mizzao/meteor-user-status): 跟踪用户的连接数据，如：IP地址、客户端信息及活动，还能在`Meteor.users`及某些对象中追踪这些信息。这样你就可以方便地知道哪些用户是在线的，从而可以在应用中用红绿色来区分显示在线用户和空闲用户。
+- [useraccounts:core](https://github.com/meteor-useraccounts/core): `User Accounts`是为`Meteor.js`平台提供的一系列包。它为许多不同的前端框架提供高可定制的用户账户UI模板。目前为止，包含有登录、注册、忘记密码、重置密码、修改密码、登记账号（enroll account）表单，还有链接至第三方服务或者移除第三方服务。（它还有各种[主题](https://atmospherejs.com/useraccounts)）。
+- [joshowens:accounts-entry](https://github.com/Differential/accounts-entry): `accounts-entry`是一个依赖于`Iron Router`并为`accounts-ui`提供替代界面（含登录和注册全部页面）的`meteorite`包。
 
 ## 关于部署和监控的包 DEPLOYMENT AND MONITORING PACKAGES
 
-We wrote last year a utorial on [thow to deploy a Meteor application on Ubuntu](https://gentlenode.com/journal/meteor-1-deploy-and-manage-a-meteor-application-on-ubuntu-with-nginx/1) and [how to use MUP to easily configure your server](https://gentlenode.com/journal/meteor-19-deploying-your-applications-in-a-snap-with-meteor-up-mup/41). You will find below additional packages to test and monitor your app so as to be sure that everything is running well.
+去年，我们在[thow to deploy a Meteor application on Ubuntu](https://gentlenode.com/journal/meteor-1-deploy-and-manage-a-meteor-application-on-ubuntu-with-nginx/1) and [how to use MUP to easily configure your server](https://gentlenode.com/journal/meteor-19-deploying-your-applications-in-a-snap-with-meteor-up-mup/41)上写了一个教程。大家可以使用以下的包来测试和监控你的应用来保证它的正常运转。
 
-- [Meteor Up](https://github.com/arunoda/meteor-up): Meteor Up (MUP for short) is a command line tool that allows you to initialize/configure your Debian/Ubuntu and Open Solaris server and to deploy your Meteor application with a single line. It's not a meteor package and it can be installed with `npm install -g mup`.
-- [Meteor Load Test](https://github.com/alanning/meteor-load-test): A load testing tool for Meteor applications that utilizes [the Grinder](http://grinder.sourceforge.net/) to manage agents.
-- [meteorhacks:kadira](https://github.com/meteorhacks/kadira): Integrate your Meteor application with Kadira for performance monitoring.
-- [percolate:server-info](https://github.com/percolatestudio/meteor-server-info): A Meteor package for querying an application for diagnostics information. sets up a route (By default at /info) that returns a json object containing useful debugging data.
-- [mrt:server-stats](https://github.com/hharnisc/meteor-server-stats): A Meteor package to grab system stats (cpu, memory, load, versions, hostname) from the server.
+- [Meteor Up](https://github.com/arunoda/meteor-up): Meteor Up (简称MUP) 是一个命令行工具，一行命令就可以让你在Debian/Ubuntu和Open Solaris服务器上初始化/配置/发布你的Meteor应用。它不是meteor包，可以通过命令`npm install -g mup`来安装。
+- [Meteor Load Test](https://github.com/alanning/meteor-load-test): 利用[the Grinder](http://grinder.sourceforge.net/) 来管理agents的负载测试工具。
+- [meteorhacks:kadira](https://github.com/meteorhacks/kadira): 集成`Kadira`来做Meteor应用的性能监控。
+- [percolate:server-info](https://github.com/percolatestudio/meteor-server-info): 这个包通过一个路由（默认为 /info）来提供一个有调试数据的 JSON 对象，从而查询到应用的诊断信息。
+- [mrt:server-stats](https://github.com/hharnisc/meteor-server-stats): 该包可以抓取到服务器的系统统计信息，如：CPU、内存、负载、版本、主机名。
 
 ## 关于第三方平台的包 PACKAGES FOR THIRD-PARTIES PLATFORMS
 
-If you are trying to integrate a third-party service with your application, chances are that someone has already built a package for that. That's why it's important that you check Atmosphere so as to avoid reinventing the wheel.
+如果你要集成一个第三方服务到你的应用中，没准已经有人做了包干这个事。所有为避免重造轮子，检查Atmosphere上的包就尤为重要。
 
-- [datariot:ganalytics](https://github.com/datariot/meteor-ganalytics): Log page views and events to Google Analytics.
-- [obvio171:disqus](https://github.com/obvio171/meteor-disqus): Disqus package for Meteor. Add {{>disqus}} to template. Be happy.
-- [limemakers:paypal](https://github.com/LimeMakers/meteor-paypal/): Meteor Package for easy Paypal payment processing.
-- [mrgalaxy:stripe](https://github.com/tyler-johnson/stripe-meteor): Stripe.js and Node-Stripe brought to Meteor.
-- [cunneen:mailgun](https://github.com/cunneen/meteor-mailgun): A meteorite package for sending emails easily using Mailgun.
+- [datariot:ganalytics](https://github.com/datariot/meteor-ganalytics): 记录页面和事件到谷歌日志分析中。
+- [obvio171:disqus](https://github.com/obvio171/meteor-disqus): 相应的Disqus包。在模板中添加`{{>disqus}}`，真好。
+- [limemakers:paypal](https://github.com/LimeMakers/meteor-paypal/): 相应的PayPal支付流程包。
+- [mrgalaxy:stripe](https://github.com/tyler-johnson/stripe-meteor): 相应的Stripe.js与Node-Stripe包。
+- [cunneen:mailgun](https://github.com/cunneen/meteor-mailgun): 用Mailgun轻松发送邮件的meteorite包。
 
 ## 关于管理的包 ADMINISTRATION PACKAGES
 
-A few awesome packages we use to generate an administration quickly.
+一些牛逼的包，立马做好管理
 
-- [houston:admin](https://github.com/gterrono/houston): Houston is a zero-config Meteor Admin, modeled after Django Admin, intended as a simple way for developers to give end-users (or themselves) an easy way to view and manipulate their app's data.
-- [yogiben:admin](https://github.com/yogiben/meteor-admin): A complete admin dashboard solution for meteor built off the iron-router, roles and autoform packages and frontend from the open source admin dashboard template, Admin LTE.
-- [tail:core](https://github.com/Tarang/Meteor-Analytics): A super cool analytics package for Meteor.
+- [houston:admin](https://github.com/gterrono/houston): Houston是个零配置的Meteor Admin, 承自Django Admin, 希望以一种简单方式来为最终用户或者开发者自身轻松地做到查看和操控应用的数据。
+- [yogiben:admin](https://github.com/yogiben/meteor-admin): 一个完整的管理dashboard解决方案，代替掉`icon-router`、`roles`和`autoform`包以及开源的管理dashboard模板（Admin LTE）的前端。
+- [tail:core](https://github.com/Tarang/Meteor-Analytics): 一个超酷的管理分析包。
 
 ## 关于安全的包 SECURITY PACKAGES
 
-If you read [Sacha Greif's article about Security](https://www.discovermeteor.com/blog/meteor-and-security/), here are a some packages that will help you to enhance your app and go further.
+如果你读过[Sacha Greif's article about Security](https://www.discovermeteor.com/blog/meteor-and-security/)，下面这些包可以帮助你更好地稳固应用。
 
-- [matteodem:easy-security](https://github.com/matteodem/meteor-easy-security): Protection against harmful attacks by rate limiting remote method calls.
-- [ongoworks:security](https://github.com/ongoworks/meteor-security): A Meteor package that provides a simple, logical, plain language API for defining write security on your MongoDB collections. Wraps the core allow/deny security.
+- [matteodem:easy-security](https://github.com/matteodem/meteor-easy-security): 通过对远程方法调用限速来阻止有害的攻击。
+- [ongoworks:security](https://github.com/ongoworks/meteor-security): 该包提供一个简单、有逻辑、朴素（plain）的语言API来定义你的MongoDB的collections上的写安全。包装了核心的允许/拒绝（allow/deny）安全。
 
 ## 关于调试的包 DEBUGGING PACKAGES
 
-The following packages will help you debug your Meteor application and make your life easier.
+下面的包帮助你调试Meteor应用，让生活更美好。
 
-- [msavin:mongoinspector](https://github.com/msavin/MongoInspector): Meteor package for visualizing your collections in the browser.
+- [msavin:mongoinspector](https://github.com/msavin/MongoInspector): 在浏览器里可视化Meteor的collections。
 
 ## 关于样板的包 METEOR BOILERPLATES
 
-When starting a new project, you need to think about the way you will organize your application. If you are an experienced Meteor developer, you probably have your own ready-to-start Meteor repository or are using one of the boilerplates below.
+开始一个新的项目，你需要考虑好如何搭好应用的架子。如果你是开发Meteor的老鸟了，可能早有了自己的随时待命（ready-to-start）的Meteor仓库（repository）或者是下面这些样板之一：
 
-- [Meteor Boilerplate (Differential)](https://github.com/Differential/meteor-boilerplate): A starting point for Meteor applications. Includes iron-router, Bootstrap 3, Font Awesome, LESS and more.
-- [Another Meteor Boilerplate (Matteo Dem)](https://github.com/matteodem/meteor-boilerplate): This boilerplate is here to give you a starting point for your meteor projects, with a console tool to ease up some tasks. Essential atmosphere packages are included to give you features like routing and collection schemas out-of-the-box.
+- [Meteor Boilerplate (Differential)](https://github.com/Differential/meteor-boilerplate): Meteor应用的起点。包括了`iron-router`、`Bootstrap 3`、`Font Awesome`、`LESS`及其他。
+- [Another Meteor Boilerplate (Matteo Dem)](https://github.com/matteodem/meteor-boilerplate): 同样是Meteor应用的起点，有一个轻松干活的控制台工具。含有必要的asmosphere包提供开箱即用的功能，如：路由(routing)和collection schemas。
 - [Meteoric Boilerplate](https://github.com/dalequi/meteor-meteoric-boilerplate): A Boilerplate for Meteor using [Meteor Ionic](https://github.com/meteoric/meteor-ionic) as base. If you would like to build mobile application with Meteor, Cordova & Ionic, that's a good way to start a project in a snap and save time.
+- [Meteoric Boilerplate](https://github.com/dalequi/meteor-meteoric-boilerplate): 使用[Meteor Ionic](https://github.com/meteoric/meteor-ionic)做为基础的一个Meteor样板。如果你想用`Meteor`、`Cordova & Ionic`做移动端应用，这是快速开始项目，节省时间的好办法。
 
 ## 其他牛逼的包 MISCELLANEOUS PACKAGES
 
-To conclude this long list, here are some packages you should look at.
+这个长长的列表最后，还有这些包要瞅瞅。
 
-- [tap:i18n](https://github.com/TAPevents/tap-i18n): tap-i18n is a Meteor package that provides a comprehensive i18n solution for Meteor apps and packages, with the goal of standardizing the way package developers internationalize their packages (used by Telescope and more).
-- [ryw:blog](https://github.com/Differential/meteor-blog): Gives you a basic, out-of-the-box blog at `/blog`.
-- [percolate:synced-cron](https://github.com/percolatestudio/meteor-synced-cron): A simple cron system for Meteor. It supports syncronizing jobs between multiple processes. In other words, if you add a job that runs every hour and your deployment consists of multiple app servers, only one of the app servers will execute the job each time (whichever tries first).
-- [sacha:spin](https://github.com/SachaG/meteor-spin): A Meteor package wrapper for Spin.js via Npm.depends(). Allows you to add and configure spinner in your template with `{{> spinner}}`.
-- [template:tabs](templates:tabs): Reactive tabbed interfaces compatible with routing.
-- [dandv:http-more](dandv:http-more): Make HTTP calls to remote servers, passing any extra options to the underlying backend.
-- [anti:fake](https://github.com/anticoders/meteor-fake): Random text and joyful names generator.
+- [tap:i18n](https://github.com/TAPevents/tap-i18n): 对Meteor应用及其包的语言国际化（i18n）全面解决方案。它旨在于使Meteor包的开发者们在做语言国际化时有标准可循，现在已被`Telescope`和更多的Meteor包使用。
+- [ryw:blog](https://github.com/Differential/meteor-blog): 一个基础的、开箱即用的博客，位于 `/blog`。
+- [percolate:synced-cron](https://github.com/percolatestudio/meteor-synced-cron): Meteor上简单的`cron`系统。它支持在多个处理器上同步任务（jobs）。换言之，如果你的布署含多个应用服务器，现在要添加一个每个小时运行一次的任务，但每次只能有一个应用服务器跑这个任务（不管哪个服务器抢到）。
+- [sacha:spin](https://github.com/SachaG/meteor-spin): 一个通过`Npm.depends()`包装`Spin.js`的包。它让你使用`{{> spinner}}`来做添加和配置模板中的spinner。
+- [template:tabs](templates:tabs): 与routing兼容的随动的tabbed界面。
+- [dandv:http-more](dandv:http-more): 向远程服务器发送HTTP调用，传送任意额外的选项给底层后台。
+- [anti:fake](https://github.com/anticoders/meteor-fake): 随机的文字和欢乐的名字生成器。
