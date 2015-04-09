@@ -53,7 +53,7 @@
   - Documents/Edit/View/Insert/Delete/Copy
 
 ```
-* 项目代码分析： hero
+* 项目代码分析： leaderboard
 ```
 
 ## 4 Meteor进阶
@@ -67,7 +67,7 @@
   - insert/update/remove
 
 ```
-* 项目代码分析： meteorhunt
+* 项目代码分析： localmarket
 ```
 
 ## 5 常用package
