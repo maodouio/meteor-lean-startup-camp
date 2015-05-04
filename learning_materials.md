@@ -25,7 +25,7 @@
   * 代码编辑器：sublime，atom，webstrom
   * 版本控制：git
   * 代码托管：github
-  * 命令行
+  * 命令行 安装 oh-my-zsh
   * 调试：chrome 开发者工具
 
 ## 前端框架选择
