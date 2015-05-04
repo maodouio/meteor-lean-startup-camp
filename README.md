@@ -1,5 +1,8 @@
-# meteor-lean-startup-camp
-First meteor lean startup camp
+# 毛豆网精益创业孵化营
+报名请联系微信号 limingth
+
+## 学习资料汇总
+https://github.com/maodouio/meteor-lean-startup-camp/blob/master/README.md
 
 ## 如果有问题，请提issue
 https://github.com/limingth/meteor-lean-startup-camp/issues
