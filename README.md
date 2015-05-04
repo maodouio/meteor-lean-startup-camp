@@ -2,7 +2,7 @@
 报名请联系微信号 limingth
 
 ## 学习资料汇总
-https://github.com/maodouio/meteor-lean-startup-camp/blob/master/README.md
+https://github.com/maodouio/meteor-lean-startup-camp/blob/master/learning_materials.md
 
 ## 如果有问题，请提issue
 https://github.com/limingth/meteor-lean-startup-camp/issues
