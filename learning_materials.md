@@ -24,7 +24,9 @@
 * 工具：
   * 代码编辑器：sublime，atom，webstrom
   * 版本控制：git
+    - [常用命令](https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf)
   * 代码托管：github
+    - [github for mac](https://mac.github.com/)
   * 命令行 安装 oh-my-zsh http://haoduoshipin.com/episodes/103
   * 调试：chrome 开发者工具
 
