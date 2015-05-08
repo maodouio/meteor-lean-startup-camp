@@ -50,6 +50,11 @@
 * 用户
   - [用户注册登录的i18n(中文化)](https://gist.github.com/luckyyang/97584597e645350f954a)
   - [注册时添加自定义字段](https://github.com/meteor-useraccounts/core/blob/master/Guide.md#form-fields-configuration)
+ 
+* IOS & Android
+  - 消息推送：
+    - https://atmospherejs.com/raix/push
+    - https://github.com/richsilv/meteor-cordova-notifications
 
 * IOS相关知识
   - [IOS app如何打包和发布](https://gist.github.com/luckyyang/11f63b98c5d29bc22086)
