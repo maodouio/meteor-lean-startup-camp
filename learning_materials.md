@@ -90,3 +90,4 @@
 * https://github.com/limingth/maodou
 * https://github.com/luckyyang/vote
 * 高德地图定位集成：https://github.com/limingth/didipoop
+* Ten meteor project you should know: https://github.com/maodouio/meteor-lean-startup-camp/wiki/Ten-meteor-project-you-should-know
