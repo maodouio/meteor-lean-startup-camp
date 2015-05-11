@@ -91,3 +91,4 @@
 * https://github.com/luckyyang/vote
 * 高德地图定位集成：https://github.com/limingth/didipoop
 * Ten meteor project you should know: https://github.com/maodouio/meteor-lean-startup-camp/wiki/Ten-meteor-project-you-should-know
+* 孵化营项目微足：http://182.92.79.206/
