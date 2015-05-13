@@ -1,5 +1,10 @@
 # Meteor 项目孵化营学习资料
 
+## 科学上网
+* google 搜索镜像
+  - http://ggss.so/
+  - http://www.glgoo.com/
+
 ## 科普 & 基础知识
 * Meteor是什么 & 优缺点
   * [2015.03.08 毛豆网Meteor开发者交流日 Kevin 演讲视频](http://www.youku.com/playlist_show/id_23545469.html) 
