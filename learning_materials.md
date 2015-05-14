@@ -5,7 +5,7 @@
   - http://ggss.so/
   - http://www.glgoo.com/
 * chrome免费翻墙插件
-  - [http://www.game4fun.cn/ec/index.html](穿越-免费版)
+  - [穿越-免费版](http://www.game4fun.cn/ec/index.html)
 
 ## 科普 & 基础知识
 * Meteor是什么 & 优缺点
