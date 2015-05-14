@@ -2,8 +2,8 @@
 
 ## 科学上网
 * google 搜索镜像
-  - http://ggss.so/
-  - http://www.glgoo.com/
+  - [谷歌(加速)](http://ggss.so/) 可以在 chrome-》设置-》搜索 中将谷歌(加速)设置为默认搜索引擎
+  - [glgoo](http://www.glgoo.com/)
 * chrome免费翻墙插件
   - [穿越-免费版](http://www.game4fun.cn/ec/index.html)
 
