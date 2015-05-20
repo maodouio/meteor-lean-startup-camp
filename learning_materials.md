@@ -15,7 +15,7 @@
 * 哪些公司在用 meteor？
   * [Quora：哪些startups 使用了 Meteor?](http://www.quora.com/Which-startups-use-Meteor-in-production)
   * [Quora：哪些 web applications 使用了 Meteor?](http://www.quora.com/What-are-some-web-applications-built-with-Meteor-js)
-  * [Made with Meteo](http://madewith.meteor.com/)
+  * [Made with Meteor](http://madewith.meteor.com/)
 * Meteor基础视频课程
   * [麦子学院Kevin视频教程：node.js上最新HTML5开发框架-Meteor](http://www.maiziedu.com/lesson/3446/)
 
