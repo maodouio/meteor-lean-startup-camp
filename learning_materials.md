@@ -6,6 +6,7 @@
   - [glgoo](http://www.glgoo.com/)
 * chrome免费翻墙插件
   - [穿越-免费版](http://www.game4fun.cn/ec/index.html)
+  - [frigate](http://chromecj.com/productivity/2014-12/323/download.html)
 
 ## 科普 & 基础知识
 * Meteor是什么 & 优缺点
