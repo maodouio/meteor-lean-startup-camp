@@ -58,7 +58,9 @@
 * [robomongo怎么看看服务器的数据](https://gist.github.com/luckyyang/c30638ee236d62b3b8e5)
 * 左侧菜单模版: [Demo](http://maodou-ionic-example.meteor.com) [Code](https://github.com/netanelgilad/meteor-ionic-example)
 * 用户
-  - [用户注册登录的i18n(中文化)](https://gist.github.com/luckyyang/97584597e645350f954a) [视频](http://meteorcasts.meteor.com/)
+  - 用户注册登录的i18n(中文化)
+    - [文字版](https://github.com/maodouio/meteor-lean-startup-camp/wiki/i18n-for-meteor-useraccounts) 
+    - [视频](http://meteorcasts.meteor.com/)
   - [注册时添加自定义字段](https://github.com/meteor-useraccounts/core/blob/master/Guide.md#form-fields-configuration)
  
 * IOS & Android
