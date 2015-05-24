@@ -39,11 +39,11 @@
   * 命令行 安装 oh-my-zsh http://haoduoshipin.com/episodes/103
   * 调试：chrome 开发者工具
 
-## 前端框架选择
+## 前端框架 & 图标
 * [meteoric](http://meteoric.github.io/): 如果你想做 mobile app，就使用它吧。ionic 的详细文档在[这里](http://ionicframework.com/docs/components/)，自定义样式参考[Writing a Sass Theme](http://learn.ionicframework.com/formulas/working-with-sass/
 )
-  - ionic图标：http://ionicons.com/
-  - font awesome 图标：http://fortawesome.github.io/Font-Awesome/icons/
+* ionic图标：http://ionicons.com/
+* font awesome 图标：https://atmospherejs.com/fortawesome/fontawesome
 * [bootstrap](http://getbootstrap.com/): general framework for pc & tablet & mobile, not specially for mobile use
 * [foundation](http://foundation.zurb.com/): mobile first front-end framework
 * [AdminLTE - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x](https://almsaeedstudio.com/preview)
