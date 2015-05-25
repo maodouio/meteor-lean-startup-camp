@@ -53,6 +53,7 @@
 * [meteor 常用学习网站](https://github.com/maodouio/meteor-lean-startup-camp/wiki/meteor%E5%B8%B8%E7%94%A8%E5%AD%A6%E4%B9%A0%E7%BD%91%E7%AB%99)
 * [meteor 数据详解](https://medium.com/@stubailo/data-flow-from-the-database-to-the-ui-three-layers-of-meteor-d5e208b466c3)
 * [Meteor DDP翻译](https://cnodejs.org/topic/51b030d9555d34c678e5fb2e)
+* [mongoDB 基础](https://github.com/maodouio/meteor-lean-startup-camp/blob/master/mongoDB_basics.pdf)
 * [常用 sublime 插件](https://github.com/maodouio/meteor-lean-startup-camp/wiki/sublime-%E7%9A%84-meteor-%E6%8F%92%E4%BB%B6)
 * [常用 atom 插件](https://atom.io/packages/meteor-api)
 * 常用 package 搜索：[atmosphere](https://atmospherejs.com/)
