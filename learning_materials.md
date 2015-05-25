@@ -71,7 +71,7 @@
     - https://github.com/richsilv/meteor-cordova-notifications
 
 * IOS相关知识
-  - [IOS app如何打包和发布](https://gist.github.com/luckyyang/11f63b98c5d29bc22086)
+  - [IOS app如何打包和发布](https://github.com/meteor/meteor/wiki/How-to-submit-your-Android-app-to-Play-Store)
 
 * Android相关知识
  - [Android  app如何打包和发布](https://gist.github.com/luckyyang/e74b8f2af243dfa713bc)
