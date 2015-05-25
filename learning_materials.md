@@ -74,7 +74,7 @@
   - [IOS app如何打包和发布](https://github.com/meteor/meteor/wiki/How-to-submit-your-Android-app-to-Play-Store)
 
 * Android相关知识
- - [Android  app如何打包和发布](https://gist.github.com/luckyyang/e74b8f2af243dfa713bc)
+ - [Android  app如何打包和发布](https://github.com/meteor/meteor/wiki/How-to-submit-your-Android-app-to-Play-Store)
  - [android 键盘输入时input框空白问题](https://github.com/maodouio/meteor-lean-startup-camp/wiki/meteoric-Android-keyboard-issue)
 
  
