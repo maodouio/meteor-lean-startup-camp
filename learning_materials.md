@@ -10,7 +10,8 @@
   - [frigate](http://chromecj.com/productivity/2014-12/323/download.html)
 * shadowsocks + aws-ec2
   - 实践证明，免费插件都不太稳定靠谱，还得靠咱自己搭的VPS
-  - http://www.wufuli.com/2235.html
+  - [how-to-use-shadowsocks-and-aws-ec2-to-climb-over-GFW] (https://github.com/maodouio/meteor-lean-startup-camp/wiki/how-to-use-shadowsocks-and-aws-ec2-to-climb-over-GFW)
+  - 参考 http://www.wufuli.com/2235.html
 
 ## 科普 & 基础知识
 * Meteor是什么 & 优缺点
