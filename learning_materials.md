@@ -8,6 +8,9 @@
 * chrome免费翻墙插件
   - [穿越-免费版](http://www.game4fun.cn/ec/index.html)
   - [frigate](http://chromecj.com/productivity/2014-12/323/download.html)
+* shadowsocks + aws-ec2
+  - 实践证明，免费插件都不太稳定靠谱，还得靠咱自己搭的VPS
+  - http://www.wufuli.com/2235.html
 
 ## 科普 & 基础知识
 * Meteor是什么 & 优缺点
