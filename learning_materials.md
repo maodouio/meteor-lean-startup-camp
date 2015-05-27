@@ -71,13 +71,13 @@
   - [注册时添加自定义字段](https://github.com/meteor-useraccounts/core/blob/master/Guide.md#form-fields-configuration)
  
 * IOS & Android
+  - [Meteor 开发 IOS & Android app 图文教程](https://www.yauh.de/the-illustrated-guide-to-mobile-apps-with-meteor/)
   - 消息推送：
     - https://atmospherejs.com/raix/push
     - https://github.com/richsilv/meteor-cordova-notifications
-  - [Meteor 开发 IOS & Android app 图文教程](https://www.yauh.de/the-illustrated-guide-to-mobile-apps-with-meteor/)
 
 * IOS相关知识
-  - [IOS app如何打包和发布](https://github.com/meteor/meteor/wiki/How-to-submit-your-Android-app-to-Play-Store)
+  - [IOS app如何打包和发布](https://github.com/maodouio/meteor-lean-startup-camp/wiki/IOS-%E6%89%93%E5%8C%85%E5%92%8C%E5%8F%91%E5%B8%83)
 
 * Android相关知识
  - 注意：命令行安装 android SDK 需要翻墙，否则会安装失败。如果不翻墙，Ubuntu 可以参考[这篇文章](https://github.com/maodouio/meteor-lean-startup-camp/wiki/Ubuntu-14.04-64%E4%BD%8D%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E4%B8%8B%EF%BC%8Cmeteor%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8%E5%A4%96%E9%83%A8%E5%AE%89%E8%A3%85%E5%A5%BD%E7%9A%84Android-SDK%EF%BC%9F)
