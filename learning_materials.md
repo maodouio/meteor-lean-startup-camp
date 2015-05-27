@@ -74,6 +74,7 @@
   - 消息推送：
     - https://atmospherejs.com/raix/push
     - https://github.com/richsilv/meteor-cordova-notifications
+    - [Meteor 开发 IOS & Android app 图文教程](https://www.yauh.de/the-illustrated-guide-to-mobile-apps-with-meteor/)
 
 * IOS相关知识
   - [IOS app如何打包和发布](https://github.com/meteor/meteor/wiki/How-to-submit-your-Android-app-to-Play-Store)
