@@ -114,3 +114,4 @@
 * Ten meteor project you should know: https://github.com/maodouio/meteor-lean-startup-camp/wiki/Ten-meteor-project-you-should-know
 * 孵化营项目微足：http://182.92.79.206/
 * https://github.com/seanrose/broadcast
+* 地图定位，拍照，文件上传：https://github.com/zhongboqing/maodoushare
