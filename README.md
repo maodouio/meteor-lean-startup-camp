@@ -1,5 +1,9 @@
 # 毛豆网精益创业孵化营
+
 报名请联系微信号 limingth
+
+## Learn-Meteor-Step-by-Step
+https://github.com/maodouio/meteor-lean-startup-camp/blob/master/Learn-Meteor-Step-by-Step.md
 
 ## 学习资料汇总
 https://github.com/maodouio/meteor-lean-startup-camp/blob/master/learning_materials.md
